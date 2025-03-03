@@ -54,7 +54,7 @@ function getQuestions(){
     }
 
 
-    myRequest.open('GEt' , 'https://raw.githubusercontent.com/Ahmed-Ibrahiem/Quez-App-/refs/heads/main/HTML_questions.json' , true);
+    myRequest.open('GEt' , 'https://raw.githubusercontent.com/Ahmed-Ibrahiem/Quiz-App/refs/heads/main/HTML_questions.json' , true);
     myRequest.send();
 }
 getQuestions()
