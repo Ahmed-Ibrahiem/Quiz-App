@@ -1,0 +1,74 @@
+[
+    {
+        "title": "This Tree Is .......",
+        "answer_1": "Agly",
+        "answer_2": "angry",
+        "answer_3": "beautiful",
+        "answer_4": "Carful",
+        "right_answer": "beautiful"
+    },
+    {
+        "title": "This Man Is ....... ",
+        "answer_1": "clever",
+        "answer_2": "angry",
+        "answer_3": "careless",
+        "answer_4": "Carful",
+        "right_answer": "careless"
+    },
+    {
+        "title": "The Little Girl Eats ...... ",
+        "answer_1": "Peach",
+        "answer_2": "Plum",
+        "answer_3": "Watermelon",
+        "answer_4": "Tangeran",
+        "right_answer": "Plum"
+    },
+    {
+        "title": "The boy Broke His ........ Yesterday ",
+        "answer_1": "Knee",
+        "answer_2": "Arm",
+        "answer_3": "Tous",
+        "answer_4": "tooth",
+        "right_answer": "Arm"
+    },
+    {
+        "title": "Look at this Beautiful ...... ",
+        "answer_1": "Ant",
+        "answer_2": "Cat",
+        "answer_3": "Dear",
+        "answer_4": "bee",
+        "right_answer": "Dear"
+    },
+    {
+        "title": " He Can Chop ....... Very Fast ",
+        "answer_1": "Pototes",
+        "answer_2": "Onion",
+        "answer_3": "Eggplants",
+        "answer_4": "Turnop",
+        "right_answer": "Eggplants"
+    },
+    {
+        "title": "My Uncle Is ........  ",
+        "answer_1": "Banker",
+        "answer_2": "Accountent",
+        "answer_3": "Carpenter",
+        "answer_4": "Burber",
+        "right_answer": "Accountent"
+    },
+    {
+        "title": "The Boy And the Girl Are ........  ",
+        "answer_1": "Beautiful",
+        "answer_2": "Famous",
+        "answer_3": "Angry",
+        "answer_4": "Cute",
+        "right_answer": "Famous"
+    },
+    {
+        "title": " This Tree is ...... ",
+        "answer_1": "angry",
+        "answer_2": "Agly",
+        "answer_3": "beautiful",
+        "answer_4": "Carful",
+        "right_answer": "Agly"
+    }
+]
